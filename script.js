@@ -30,4 +30,4 @@ document.addEventListener('DOMContentLoaded',()=>{
     setTimeout(()=>{
         card.style.opacity = 1;
     },100);
-)});
+});
